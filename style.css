@@ -319,6 +319,22 @@ main p {
 .end .espejo{
     transform: scaleX(-1);
 }
+.quote {
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
+    text-align: center;
+    padding: 20px 0;
+    margin: auto;
+
+}
+.quote p {
+    padding: 0;
+    margin: auto;
+    max-width: 350px;
+    font-size: 1.2rem;
+
+}
+
 
 footer {
     width: 100%;
